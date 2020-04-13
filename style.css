@@ -1,0 +1,16 @@
+.timer {
+  display: flex;
+  widows: 900px;
+  height: 300px;
+}
+.field {
+  font-size: 32px;
+  text-align: center;
+  padding: 15px;
+  width: 112px;
+  height: 95px;
+}
+.value {
+  font-size: 53px;
+  color: #310505;
+}
