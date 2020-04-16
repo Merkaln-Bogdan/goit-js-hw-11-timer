@@ -2,7 +2,6 @@ class CountdownTimer {
   constructor({ selector, targetDate }) {
     this.selector = selector;
     this.targetDate = targetDate;
-    console.log(selector);
   }
 
   timerId = setInterval(() => {
